@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/find-dogs-information/static/css/main.c1948a80.css",
+    "main.js": "/find-dogs-information/static/js/main.6a228b0a.js",
+    "static/js/787.38ade08b.chunk.js": "/find-dogs-information/static/js/787.38ade08b.chunk.js",
+    "static/media/hazel.jpg": "/find-dogs-information/static/media/hazel.56f12732a1234fceb49b.jpg",
+    "static/media/whiskey.jpg": "/find-dogs-information/static/media/whiskey.7650f3f2b68e4bebacaa.jpg",
+    "static/media/tubby.jpg": "/find-dogs-information/static/media/tubby.9c06bf82b050f49b0a43.jpg",
+    "index.html": "/find-dogs-information/index.html",
+    "main.c1948a80.css.map": "/find-dogs-information/static/css/main.c1948a80.css.map",
+    "main.6a228b0a.js.map": "/find-dogs-information/static/js/main.6a228b0a.js.map",
+    "787.38ade08b.chunk.js.map": "/find-dogs-information/static/js/787.38ade08b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1948a80.css",
+    "static/js/main.6a228b0a.js"
+  ]
+}
